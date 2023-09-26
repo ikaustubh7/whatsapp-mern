@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17b96944-2527-4c16-abd7-aca05c263605" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SidebarChat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SidebarChat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SidebarChat.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/SidebarChat.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SidebarChat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/SidebarChat.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,7 +82,7 @@
       <workItem from="1695115679601" duration="28604000" />
       <workItem from="1695405668619" duration="7097000" />
       <workItem from="1695422610627" duration="8455000" />
-      <workItem from="1695506162810" duration="20244000" />
+      <workItem from="1695506162810" duration="21143000" />
     </task>
     <servers />
   </component>
